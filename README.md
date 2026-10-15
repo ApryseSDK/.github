@@ -1,6 +1,6 @@
 # Apryse
 
-**Bring PDF, CAD, and MS Office capabilities to any software.**
+**Build, view, edit, and extract data across 100+ formats with a production-ready SDK.**
 
 [Apryse](https://apryse.com/) builds SDKs that let developers view, annotate, edit, and process documents in web, mobile, desktop, and server applications.
 
@@ -11,8 +11,8 @@ This org hosts our public samples, framework integrations, and mobile wrappers.
 Not sure where to start? Check out this selection of repos:
 
 - [`webviewer-samples`](https://github.com/ApryseSDK/webviewer-samples): web integration samples, including Blazor and Flutter
-- [`webviewer-ui`](https://github.com/ApryseSDK/webviewer-ui): the WebViewer UI source code, for customizing the viewer's interface
-- [`pdftron-react-native`](https://github.com/ApryseSDK/pdftron-react-native) and [`pdftron-flutter`](https://github.com/ApryseSDK/pdftron-flutter): cross-platform mobile apps
+- [`android-samples`](https://github.com/ApryseSDK/pdftron-android-samples): Apryse Android samples
+- [`ios-samples`](https://github.com/ApryseSDK/pdftron-ios-samples): Apryse iOS samples
 
 Looking for a quick showcase demo?[Try this.](https://showcase.apryse.com/)
 
